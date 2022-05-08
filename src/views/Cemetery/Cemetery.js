@@ -42,10 +42,10 @@ const Cemetery = () => {
               <Box mt={5}>
                 <div hidden={activeBanks.filter((bank) => bank.sectionInUI === 2).length === 0}>
                   <Typography color="textPrimary" variant="h4" gutterBottom>
-                    Earn 2SHARE by staking LP
+                    Earn GRASS by staking LP
                   </Typography>
                   <Alert variant="filled" severity="success">
-                    2SHARE incentives have started! Good luck!
+                    GRASS incentives have started! Good luck!
                   </Alert>
                   <Grid container spacing={3} style={{ marginTop: '20px' }}>
                     {activeBanks

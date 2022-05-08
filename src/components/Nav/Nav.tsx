@@ -112,7 +112,7 @@ const Nav = () => {
                 Farms
               </Link>
               <Link color="textPrimary" to="/boardroom" className={classes.link}>
-                Boardroom
+                Milkmaid
               </Link>
               <Link color="textPrimary" to="/bonds" className={classes.link}>
                 Bonds

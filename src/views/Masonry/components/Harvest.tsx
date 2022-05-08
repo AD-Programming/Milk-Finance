@@ -41,7 +41,7 @@ const Harvest: React.FC = () => {
               </CardIcon>
               <Value value={getDisplayBalance(earnings)} />
               <Label text={`≈ $${earnedInDollars}`} />
-              <Label text="2OMB Earned" />
+              <Label text="MILK Earned" />
             </StyledCardHeader>
             <StyledCardActions>
               <Button
